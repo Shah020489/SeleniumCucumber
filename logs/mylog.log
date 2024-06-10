@@ -1,0 +1,55 @@
+[INFO ] 2024-06-09 00:53:59.273 [main] StepDef - User Launch Chrome browser
+[INFO ] 2024-06-09 00:53:59.323 [main] StepDef - User opens URL
+[INFO ] 2024-06-09 00:54:02.484 [main] StepDef - User enters Email and Password
+[INFO ] 2024-06-09 00:54:06.961 [main] StepDef - Click on Login Button
+[INFO ] 2024-06-09 00:54:08.324 [main] StepDef - User can view Dashboad -- Passed
+[INFO ] 2024-06-09 00:54:08.461 [main] StepDef - User click on customers Menu
+[INFO ] 2024-06-09 00:54:11.639 [main] StepDef - User click on customers Menu Item
+[INFO ] 2024-06-09 00:54:14.507 [main] StepDef - clicked on Add new button
+[INFO ] 2024-06-09 00:54:14.530 [main] StepDef - User can view Add new customer page -- verified title
+[INFO ] 2024-06-09 00:54:17.431 [main] StepDef - User entered customer info successfully
+[INFO ] 2024-06-09 00:54:20.947 [main] StepDef - click on Save button
+[INFO ] 2024-06-09 00:54:21.759 [main] StepDef - User can view confirmation message --Passed
+[INFO ] 2024-06-09 01:21:16.258 [main] StepDef - User Launch Chrome browser
+[INFO ] 2024-06-09 01:21:16.304 [main] StepDef - User opens URL
+[INFO ] 2024-06-09 01:21:19.463 [main] StepDef - User enters Email and Password
+[INFO ] 2024-06-09 01:21:22.139 [main] StepDef - Click on Login Button
+[INFO ] 2024-06-09 01:21:23.658 [main] StepDef - User can view Dashboad -- Passed
+[INFO ] 2024-06-09 01:21:23.838 [main] StepDef - User click on customers Menu
+[INFO ] 2024-06-09 01:21:26.979 [main] StepDef - User click on customers Menu Item
+[INFO ] 2024-06-09 01:21:29.762 [main] StepDef - clicked on Add new button
+[INFO ] 2024-06-09 01:21:29.801 [main] StepDef - User can view Add new customer page -- verified title
+[INFO ] 2024-06-09 01:21:32.724 [main] StepDef - User entered customer info successfully
+[INFO ] 2024-06-09 01:21:35.845 [main] StepDef - click on Save button
+[INFO ] 2024-06-09 01:21:36.670 [main] StepDef - User can view confirmation message --Passed
+[INFO ] 2024-06-09 01:47:31.460 [main] StepDef - User Launch Chrome browser
+[INFO ] 2024-06-09 01:47:31.527 [main] StepDef - User opens URL
+[INFO ] 2024-06-09 01:47:34.391 [main] StepDef - User enters Email and Password
+[INFO ] 2024-06-09 01:47:36.992 [main] StepDef - Click on Login Button
+[INFO ] 2024-06-09 01:47:38.243 [main] StepDef - User can view Dashboad -- Passed
+[INFO ] 2024-06-09 01:47:38.412 [main] StepDef - User click on customers Menu
+[INFO ] 2024-06-09 01:47:41.384 [main] StepDef - User click on customers Menu Item
+[INFO ] 2024-06-09 01:47:44.184 [main] StepDef - clicked on Add new button
+[INFO ] 2024-06-09 01:47:44.201 [main] StepDef - User can view Add new customer page -- verified title
+[INFO ] 2024-06-09 01:47:45.732 [main] StepDef - click on Save button
+[INFO ] 2024-06-09 01:53:56.339 [main] StepDef - User Launch Chrome browser
+[INFO ] 2024-06-09 01:53:56.414 [main] StepDef - User opens URL
+[INFO ] 2024-06-09 01:53:59.353 [main] StepDef - User enters Email and Password
+[INFO ] 2024-06-09 01:54:01.908 [main] StepDef - Click on Login Button
+[INFO ] 2024-06-09 01:54:03.164 [main] StepDef - User can view Dashboad -- Passed
+[INFO ] 2024-06-09 01:54:03.336 [main] StepDef - User click on customers Menu
+[INFO ] 2024-06-09 01:54:06.284 [main] StepDef - User click on customers Menu Item
+[INFO ] 2024-06-09 01:54:09.118 [main] StepDef - clicked on Add new button
+[INFO ] 2024-06-09 01:54:09.758 [main] StepDef - User can view Add new customer page -- verified title
+[INFO ] 2024-06-09 01:54:10.469 [main] StepDef - click on Save button
+[INFO ] 2024-06-09 01:55:28.434 [main] StepDef - User Launch Chrome browser
+[INFO ] 2024-06-09 01:55:28.506 [main] StepDef - User opens URL
+[INFO ] 2024-06-09 01:55:31.079 [main] StepDef - User enters Email and Password
+[INFO ] 2024-06-09 01:55:34.411 [main] StepDef - Click on Login Button
+[INFO ] 2024-06-09 01:55:35.787 [main] StepDef - User can view Dashboad -- Passed
+[INFO ] 2024-06-09 01:55:35.933 [main] StepDef - User click on customers Menu
+[INFO ] 2024-06-09 01:55:38.882 [main] StepDef - User click on customers Menu Item
+[INFO ] 2024-06-09 01:55:41.778 [main] StepDef - clicked on Add new button
+[INFO ] 2024-06-09 01:55:41.808 [main] StepDef - User can view Add new customer page -- verified title
+[INFO ] 2024-06-09 01:55:43.115 [main] StepDef - click on Save button
+[INFO ] 2024-06-09 01:55:43.619 [main] StepDef - User can view confirmation message --Passed
